@@ -17,9 +17,9 @@ Suggested Usage:
 
 If you would like to download the font files themselves, They are available in the following formats:
 
-- **Embedded OpenType**: [*download*](http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.eot) | [*description*](http://en.wikipedia.org/wiki/Embedded_OpenType)
-- **Web Open Font Format**: [*download*](http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.woff) | [*description*](http://en.wikipedia.org/wiki/Woff)
-- **TrueType Font**: [*download*](http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.ttf) | [*description*](http://en.wikipedia.org/wiki/TrueType)
-- **Scalable Vector Graphics**: [*download*](http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.svg) | [*description*](http://en.wikipedia.org/wiki/Svg)
+- **Embedded OpenType**: [*download*](http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.eot)
+- **Web Open Font Format**: [*download*](http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.woff)
+- **TrueType Font**: [*download*](http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.ttf)
+- **Scalable Vector Graphics**: [*download*](http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.svg)
 
 Thanks to Font Squirrel's [Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator) for doing all the lifting.
