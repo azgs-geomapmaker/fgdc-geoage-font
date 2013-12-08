@@ -15,6 +15,8 @@ Suggested Usage:
 }
 ```
 
+*Note*: As of Dec. 8, 2013, the suggested usage will work in all browsers except Firefox. To make sure that the site works in Firefox you must download the font files and host them on the same domain as your website. 
+
 If you would like to download the font files themselves, They are available in the following formats:
 
 - **Embedded OpenType**: [*download*](http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.eot)
