@@ -7,11 +7,11 @@ Suggested Usage:
 ```css
 @font-face{ 
     font-family: 'FGDCGeoAge';
-    src: url('http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.eot');
-    src: url('http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.eot?#iefix') format('embedded-opentype'),
-         url('http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.woff') format('woff'),
-         url('http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.ttf') format('truetype'),
-         url('http://ncgmp09.github.io/fgdc-geoage-font/fgdcgeoage.svg#FGDCGeoAge') format('svg');
+    src: url('//azgs-geomapmaker.github.io/fgdc-geoage-font/fgdcgeoage.eot');
+    src: url('//azgs-geomapmaker.github.io/fgdc-geoage-font/fgdcgeoage.eot?#iefix') format('embedded-opentype'),
+         url('//azgs-geomapmaker.github.io/fgdc-geoage-font/fgdcgeoage.woff') format('woff'),
+         url('//azgs-geomapmaker.github.io/fgdc-geoage-font/fgdcgeoage.ttf') format('truetype'),
+         url('//azgs-geomapmaker.github.io/fgdc-geoage-font/fgdcgeoage.svg#FGDCGeoAge') format('svg');
 }
 ```
 
